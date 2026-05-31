@@ -26,36 +26,7 @@ Auto-Expert is a modern, intelligent web application that uses Google's Gemini A
 - 📱 **Responsive Design** - Optimized for desktop, tablet, and mobile
 - ⚡ **Fast & Efficient** - Real-time results with loading and error states
 
-## 🛠️ Technology Stack
-
-**Frontend:**
-- React 18.2.0
-- React Markdown with GitHub Flavored Markdown
-- Modern CSS with animations and transitions
-
-**Backend:**
-- Node.js with Express
-- Google Generative AI (Gemini)
-- CORS for cross-origin requests
 
 ## 🚀 Deployment : https://github.com/gshreyasshetty/AutoExpert
-
-## 📖 Usage
-
-1. **Enter Vehicle Information:**
-   - Make (e.g., Toyota)
-   - Model (e.g., Corolla)
-   - Year (e.g., 2015)
-   - Mileage in KM (e.g., 60000)
-
-2. **Describe the Problem:**
-   - Enter a detailed description of the issue
-   - List any symptoms you've observed
-
-3. **Get Diagnosis:**
-   - Click "Get Recommendations"
-   - Wait for the AI to analyze the problem
-   - Review the comprehensive diagnosis report
-
 
 **Happy Diagnosing! 🚗✨**

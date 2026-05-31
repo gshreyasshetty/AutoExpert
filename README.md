@@ -27,10 +27,20 @@ Auto-Expert is a modern, intelligent web application that uses Google's Gemini A
 - ⚡ **Fast & Efficient** - Real-time results with loading and error states
 
 
-## 🚀 Deployment : https://github.com/gshreyasshetty/AutoExpert
+## 🚀 Deployment
 
-<img width="1563" height="767" alt="image" src="https://github.com/user-attachments/assets/d5d69106-c87e-43c2-8234-97e837fb18be" />
-<img width="1514" height="819" alt="image" src="https://github.com/user-attachments/assets/47e673b6-d744-4f30-9446-45aed17fd1b1" />
+🔗 https://github.com/gshreyasshetty/AutoExpert
+
+<table>
+<tr>
+<td><img src="https://github.com/user-attachments/assets/d5d69106-c87e-43c2-8234-97e837fb18be" width="400"/></td>
+<td><img src="https://github.com/user-attachments/assets/47e673b6-d744-4f30-9446-45aed17fd1b1" width="400"/></td>
+</tr>
+<tr>
+<td><img src="https://github.com/user-attachments/assets/0201bfb5-dc7d-4c71-9cdd-304114d219d4" width="400"/></td>
+<td><img src="https://github.com/user-attachments/assets/44e2164f-f342-4b73-9bed-1b1724fc44ca" width="400"/></td>
+</tr>
+</table>
 
 
 **Happy Diagnosing! 🚗✨**
